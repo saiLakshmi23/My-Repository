@@ -1,0 +1,560 @@
+2018-02-21 16:59:46,650 INFO  [Log] **************************************************************************************** 
+2018-02-21 16:59:46,651 INFO  [Log] **************************************************************************************** 
+2018-02-21 16:59:46,651 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 16:59:46,651 INFO  [Log] **************************************************************************************** 
+2018-02-21 16:59:46,651 INFO  [Log] **************************************************************************************** 
+2018-02-21 16:59:46,651 INFO  [Log] Opening Browser 
+2018-02-21 17:00:33,421 INFO  [Log] Not able to open Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+edSave.webext.sc.lz4	DEBUG	Save changes
+1519212590676	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212590677	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212590679	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212590679	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212590680	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212590683	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212590706	DeferredSave.addons.json	DEBUG	Starting write
+1519212590707	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212590708	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212590767	DeferredSave.addons.json	DEBUG	Write succeeded
+1519212590805	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\sailakshmi.p\AppData\Local\Temp\anonymous1687228073152047099webdriver-profile\extensions\fxdriver@googlecode.com
+1519212590806	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\sailakshmi.p\AppData\Local\Temp\anonymous1687228073152047099webdriver-profile\extensions\webdriver-staging
+1519212590806	addons.xpi	DEBUG	Existing add-on fxdriver@googlecode.com in app-profile
+1519212590806	addons.xpi	INFO	Mapping activity-stream@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1519212590806	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1519212590806	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1519212590806	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1519212590806	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1519212590806	addons.xpi	INFO	Mapping formautofill@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1519212590807	addons.xpi	INFO	Mapping onboarding@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1519212590807	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1519212590807	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1519212590807	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1519212590807	addons.xpi	DEBUG	Existing add-on activity-stream@mozilla.org in app-system-defaults
+1519212590807	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1519212590807	addons.xpi	DEBUG	Existing add-on e10srollout@mozilla.org in app-system-defaults
+1519212590808	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1519212590808	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1519212590808	addons.xpi	DEBUG	Existing add-on formautofill@mozilla.org in app-system-defaults
+1519212590808	addons.xpi	DEBUG	Existing add-on onboarding@mozilla.org in app-system-defaults
+1519212590808	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1519212590809	addons.xpi	DEBUG	Existing add-on shield-recipe-client@mozilla.org in app-system-defaults
+1519212590809	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1519212590809	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1519212590809	addons.xpi	DEBUG	Existing add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1519212590809	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1519212595624	DeferredSave.webext.sc.lz4	DEBUG	Starting write
+1519212595627	DeferredSave.webext.sc.lz4	DEBUG	Write succeeded
+
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'Sailakshmi', ip: '192.168.1.116', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: FirefoxDriver 
+2018-02-21 17:03:38,775 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:03:38,775 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:03:38,775 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:03:38,775 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:03:38,775 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:03:38,776 INFO  [Log] Opening Browser 
+2018-02-21 17:04:25,338 INFO  [Log] Not able to open Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+edSave.webext.sc.lz4	DEBUG	Save changes
+1519212822638	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212822639	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212822640	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212822640	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212822642	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212822651	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212822674	DeferredSave.addons.json	DEBUG	Starting write
+1519212822678	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212822678	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1519212822692	DeferredSave.addons.json	DEBUG	Write succeeded
+1519212822769	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\sailakshmi.p\AppData\Local\Temp\anonymous6513911855507958335webdriver-profile\extensions\fxdriver@googlecode.com
+1519212822769	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\sailakshmi.p\AppData\Local\Temp\anonymous6513911855507958335webdriver-profile\extensions\webdriver-staging
+1519212822770	addons.xpi	DEBUG	Existing add-on fxdriver@googlecode.com in app-profile
+1519212822770	addons.xpi	INFO	Mapping activity-stream@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1519212822770	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1519212822770	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1519212822770	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1519212822770	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1519212822770	addons.xpi	INFO	Mapping formautofill@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1519212822770	addons.xpi	INFO	Mapping onboarding@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1519212822770	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1519212822770	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1519212822770	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1519212822771	addons.xpi	DEBUG	Existing add-on activity-stream@mozilla.org in app-system-defaults
+1519212822771	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1519212822771	addons.xpi	DEBUG	Existing add-on e10srollout@mozilla.org in app-system-defaults
+1519212822771	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1519212822771	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1519212822771	addons.xpi	DEBUG	Existing add-on formautofill@mozilla.org in app-system-defaults
+1519212822772	addons.xpi	DEBUG	Existing add-on onboarding@mozilla.org in app-system-defaults
+1519212822772	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1519212822772	addons.xpi	DEBUG	Existing add-on shield-recipe-client@mozilla.org in app-system-defaults
+1519212822772	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1519212822773	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1519212822773	addons.xpi	DEBUG	Existing add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1519212822773	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1519212827590	DeferredSave.webext.sc.lz4	DEBUG	Starting write
+1519212827591	DeferredSave.webext.sc.lz4	DEBUG	Write succeeded
+
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: 'Sailakshmi', ip: '192.168.1.116', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: FirefoxDriver 
+2018-02-21 17:09:29,795 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:09:29,796 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:09:29,796 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:09:29,796 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:09:29,796 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:09:29,796 INFO  [Log] Opening Browser 
+2018-02-21 17:10:46,699 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:10:46,699 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:10:46,699 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:10:46,699 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:10:46,700 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:10:46,700 INFO  [Log] Opening Browser 
+2018-02-21 17:20:24,210 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:20:24,211 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:20:24,211 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:20:24,211 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:20:24,211 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:20:24,211 INFO  [Log] Opening Browser 
+2018-02-21 17:26:52,576 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:26:52,576 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:26:52,576 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:26:52,576 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:26:52,576 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:26:52,576 INFO  [Log] Opening Browser 
+2018-02-21 17:29:35,509 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:29:35,509 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:29:35,509 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:29:35,509 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:29:35,509 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:29:35,510 INFO  [Log] Opening Browser 
+2018-02-21 17:29:42,386 INFO  [Log] Navigating to URL 
+2018-02-21 17:29:48,829 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-21 17:29:49,169 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-21 17:29:50,923 INFO  [Log] Entering the text in UserName 
+2018-02-21 17:29:51,081 INFO  [Log] Entering the text in Password 
+2018-02-21 17:29:51,208 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-21 17:29:57,480 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-21 17:29:57,792 INFO  [Log] Wait for 2 seconds 
+2018-02-21 17:29:59,860 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-21 17:30:00,675 INFO  [Log] Closing the browser 
+2018-02-21 17:30:00,854 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-21 17:30:00,854 INFO  [Log] X 
+2018-02-21 17:30:00,854 INFO  [Log] X 
+2018-02-21 17:30:00,854 INFO  [Log] X 
+2018-02-21 17:30:00,854 INFO  [Log] X 
+2018-02-21 17:30:00,864 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:30:00,864 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:30:00,864 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:30:00,864 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:34:17,646 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:34:17,646 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:34:17,646 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:34:17,646 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:34:17,646 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:34:17,647 INFO  [Log] Opening Browser 
+2018-02-21 17:40:17,428 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:40:17,428 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:40:17,428 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:40:17,428 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:40:17,429 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:40:17,429 INFO  [Log] Opening Browser 
+2018-02-21 17:43:23,766 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:43:23,767 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:43:23,767 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:43:23,767 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:43:23,767 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:43:23,767 INFO  [Log] Opening Browser 
+2018-02-21 17:43:29,646 INFO  [Log] Navigating to URL 
+2018-02-21 17:43:38,007 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-21 17:43:38,332 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-21 17:43:39,696 INFO  [Log] Entering the text in UserName 
+2018-02-21 17:43:39,832 INFO  [Log] Entering the text in Password 
+2018-02-21 17:43:39,968 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-21 17:43:43,954 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-21 17:43:44,267 INFO  [Log] Wait for 2 seconds 
+2018-02-21 17:43:46,323 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-21 17:43:47,091 INFO  [Log] Closing the browser 
+2018-02-21 17:43:47,270 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-21 17:43:47,270 INFO  [Log] X 
+2018-02-21 17:43:47,270 INFO  [Log] X 
+2018-02-21 17:43:47,270 INFO  [Log] X 
+2018-02-21 17:43:47,270 INFO  [Log] X 
+2018-02-21 17:43:47,277 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:43:47,277 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:43:47,277 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:43:47,277 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:49:37,716 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:49:37,717 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:49:37,717 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:49:37,717 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:49:37,717 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:49:37,717 INFO  [Log] Opening Browser 
+2018-02-21 17:52:09,772 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:52:09,773 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:52:09,773 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 17:52:09,773 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:52:09,773 INFO  [Log] **************************************************************************************** 
+2018-02-21 17:52:09,776 INFO  [Log] Opening Browser 
+2018-02-21 17:52:16,445 INFO  [Log] Navigating to URL 
+2018-02-21 17:52:23,040 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-21 17:52:23,382 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-21 17:52:25,186 INFO  [Log] Entering the text in UserName 
+2018-02-21 17:52:25,342 INFO  [Log] Entering the text in Password 
+2018-02-21 17:52:25,474 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-21 17:52:37,271 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-21 17:52:37,589 INFO  [Log] Wait for 2 seconds 
+2018-02-21 17:52:39,644 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-21 17:52:40,468 INFO  [Log] Closing the browser 
+2018-02-21 17:52:40,627 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-21 17:52:40,627 INFO  [Log] X 
+2018-02-21 17:52:40,627 INFO  [Log] X 
+2018-02-21 17:52:40,627 INFO  [Log] X 
+2018-02-21 17:52:40,627 INFO  [Log] X 
+2018-02-21 17:52:40,633 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:52:40,633 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:52:40,633 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 17:52:40,633 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:00:56,331 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:00:56,331 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:00:56,331 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 19:00:56,332 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:00:56,332 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:00:56,339 INFO  [Log] Opening Browser 
+2018-02-21 19:01:06,073 INFO  [Log] Navigating to URL 
+2018-02-21 19:01:14,117 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-21 19:01:14,513 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-21 19:01:16,076 INFO  [Log] Entering the text in UserName 
+2018-02-21 19:01:16,244 INFO  [Log] Entering the text in Password 
+2018-02-21 19:01:16,375 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-21 19:01:21,999 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-21 19:01:22,331 INFO  [Log] Wait for 2 seconds 
+2018-02-21 19:01:24,440 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-21 19:01:25,708 INFO  [Log] Closing the browser 
+2018-02-21 19:01:25,945 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-21 19:01:25,945 INFO  [Log] X 
+2018-02-21 19:01:25,945 INFO  [Log] X 
+2018-02-21 19:01:25,945 INFO  [Log] X 
+2018-02-21 19:01:25,945 INFO  [Log] X 
+2018-02-21 19:01:25,958 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:01:25,958 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:01:25,958 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:01:25,958 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:15:35,010 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:15:35,011 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:15:35,011 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 19:15:35,011 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:15:35,011 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:15:35,014 INFO  [Log] Opening Browser 
+2018-02-21 19:15:42,036 INFO  [Log] Navigating to URL 
+2018-02-21 19:15:47,900 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-21 19:15:48,254 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-21 19:15:50,006 INFO  [Log] Entering the text in UserName 
+2018-02-21 19:15:50,143 INFO  [Log] Entering the text in Password 
+2018-02-21 19:15:50,292 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-21 19:15:56,394 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-21 19:15:56,721 INFO  [Log] Wait for 2 seconds 
+2018-02-21 19:15:58,789 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-21 19:16:00,209 INFO  [Log] Closing the browser 
+2018-02-21 19:16:00,393 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-21 19:16:00,393 INFO  [Log] X 
+2018-02-21 19:16:00,393 INFO  [Log] X 
+2018-02-21 19:16:00,393 INFO  [Log] X 
+2018-02-21 19:16:00,393 INFO  [Log] X 
+2018-02-21 19:16:00,403 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:16:00,403 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:16:00,403 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:16:00,403 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:21:12,320 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:21:12,321 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:21:12,321 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-21 19:21:12,321 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:21:12,321 INFO  [Log] **************************************************************************************** 
+2018-02-21 19:21:12,324 INFO  [Log] Opening Browser 
+2018-02-21 19:21:19,967 INFO  [Log] Navigating to URL 
+2018-02-21 19:21:28,236 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-21 19:21:28,587 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-21 19:21:30,274 INFO  [Log] Entering the text in UserName 
+2018-02-21 19:21:30,415 INFO  [Log] Entering the text in Password 
+2018-02-21 19:21:30,552 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-21 19:21:35,842 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-21 19:21:36,158 INFO  [Log] Wait for 2 seconds 
+2018-02-21 19:21:38,215 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-21 19:21:39,448 INFO  [Log] Closing the browser 
+2018-02-21 19:21:39,649 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-21 19:21:39,649 INFO  [Log] X 
+2018-02-21 19:21:39,649 INFO  [Log] X 
+2018-02-21 19:21:39,649 INFO  [Log] X 
+2018-02-21 19:21:39,649 INFO  [Log] X 
+2018-02-21 19:21:39,670 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:21:39,670 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:21:39,670 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-21 19:21:39,670 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 12:13:29,398 INFO  [Log] **************************************************************************************** 
+2018-02-26 12:13:29,415 INFO  [Log] **************************************************************************************** 
+2018-02-26 12:13:29,415 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-26 12:13:29,415 INFO  [Log] **************************************************************************************** 
+2018-02-26 12:13:29,415 INFO  [Log] **************************************************************************************** 
+2018-02-26 12:13:29,418 INFO  [Log] Opening Browser 
+2018-02-26 12:13:43,512 INFO  [Log] Navigating to URL 
+2018-02-26 12:13:53,242 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-26 12:13:53,591 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-26 12:13:56,376 INFO  [Log] Entering the text in UserName 
+2018-02-26 12:13:56,521 INFO  [Log] Entering the text in Password 
+2018-02-26 12:13:56,630 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-26 12:14:03,002 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-26 12:14:03,303 INFO  [Log] Wait for 2 seconds 
+2018-02-26 12:14:05,369 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-26 12:14:06,130 INFO  [Log] Closing the browser 
+2018-02-26 12:14:06,461 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-26 12:14:06,461 INFO  [Log] X 
+2018-02-26 12:14:06,461 INFO  [Log] X 
+2018-02-26 12:14:06,461 INFO  [Log] X 
+2018-02-26 12:14:06,461 INFO  [Log] X 
+2018-02-26 12:14:06,467 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 12:14:06,467 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 12:14:06,467 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 12:14:06,467 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 12:41:56,836 INFO  [Log] **************************************************************************************** 
+2018-02-26 12:41:56,836 INFO  [Log] **************************************************************************************** 
+2018-02-26 12:41:56,836 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-26 12:41:56,836 INFO  [Log] **************************************************************************************** 
+2018-02-26 12:41:56,836 INFO  [Log] **************************************************************************************** 
+2018-02-26 12:41:56,839 INFO  [Log] Opening Browser 
+2018-02-26 12:42:06,584 INFO  [Log] Navigating to URL 
+2018-02-26 12:42:29,656 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-26 12:42:30,097 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-26 12:42:32,374 INFO  [Log] Entering the text in UserName 
+2018-02-26 12:42:32,525 INFO  [Log] Entering the text in Password 
+2018-02-26 12:42:32,636 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-26 12:42:51,346 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-26 12:42:51,654 INFO  [Log] Wait for 2 seconds 
+2018-02-26 12:42:53,726 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-26 12:42:54,929 INFO  [Log] Closing the browser 
+2018-02-26 12:42:55,123 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-26 12:42:55,123 INFO  [Log] X 
+2018-02-26 12:42:55,123 INFO  [Log] X 
+2018-02-26 12:42:55,123 INFO  [Log] X 
+2018-02-26 12:42:55,123 INFO  [Log] X 
+2018-02-26 12:42:55,137 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 12:42:55,137 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 12:42:55,137 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 12:42:55,137 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 13:09:39,878 INFO  [Log] **************************************************************************************** 
+2018-02-26 13:09:39,878 INFO  [Log] **************************************************************************************** 
+2018-02-26 13:09:39,878 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-26 13:09:39,878 INFO  [Log] **************************************************************************************** 
+2018-02-26 13:09:39,878 INFO  [Log] **************************************************************************************** 
+2018-02-26 13:09:39,884 INFO  [Log] Opening Browser 
+2018-02-26 13:09:47,926 INFO  [Log] Navigating to URL 
+2018-02-26 13:16:15,510 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-26 13:16:16,019 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-26 13:16:22,072 INFO  [Log] Entering the text in UserName 
+2018-02-26 13:16:22,218 INFO  [Log] Entering the text in Password 
+2018-02-26 13:16:22,342 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-26 13:16:53,528 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-26 13:16:53,849 INFO  [Log] Wait for 2 seconds 
+2018-02-26 13:16:55,923 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-26 13:16:56,946 INFO  [Log] Closing the browser 
+2018-02-26 13:16:57,135 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-26 13:16:57,135 INFO  [Log] X 
+2018-02-26 13:16:57,135 INFO  [Log] X 
+2018-02-26 13:16:57,135 INFO  [Log] X 
+2018-02-26 13:16:57,135 INFO  [Log] X 
+2018-02-26 13:16:57,135 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 13:16:57,135 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 13:16:57,135 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-26 13:16:57,135 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-27 15:42:00,184 INFO  [Log] **************************************************************************************** 
+2018-02-27 15:42:00,207 INFO  [Log] **************************************************************************************** 
+2018-02-27 15:42:00,207 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 15:42:00,207 INFO  [Log] **************************************************************************************** 
+2018-02-27 15:42:00,207 INFO  [Log] **************************************************************************************** 
+2018-02-27 15:42:00,211 INFO  [Log] Opening Browser 
+2018-02-27 15:42:01,560 INFO  [Log] Not able to open Browser --- Unable to create new service: GeckoDriverService
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:42:28.403Z'
+System info: host: 'IT-SUPPORT', ip: '192.168.2.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_77'
+Driver info: driver.version: unknown
+Command duration or timeout: 731 milliseconds 
+2018-02-27 16:01:28,246 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:01:28,247 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:01:28,247 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 16:01:28,247 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:01:28,247 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:01:28,250 INFO  [Log] Opening Browser 
+2018-02-27 16:01:28,985 INFO  [Log] Not able to open Browser --- Unable to create new service: GeckoDriverService
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:42:28.403Z'
+System info: host: 'IT-SUPPORT', ip: '192.168.2.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_77'
+Driver info: driver.version: unknown
+Command duration or timeout: 140 milliseconds 
+2018-02-27 16:02:40,005 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:02:40,005 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:02:40,005 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 16:02:40,005 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:02:40,005 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:02:40,008 INFO  [Log] Opening Browser 
+2018-02-27 16:02:40,887 INFO  [Log] Not able to open Browser --- Unable to create new service: GeckoDriverService
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:42:28.403Z'
+System info: host: 'IT-SUPPORT', ip: '192.168.2.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_77'
+Driver info: driver.version: unknown
+Command duration or timeout: 251 milliseconds 
+2018-02-27 16:18:45,347 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:18:45,348 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:18:45,348 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 16:18:45,348 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:18:45,348 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:18:45,351 INFO  [Log] Opening Browser 
+2018-02-27 16:19:07,062 INFO  [Log] Not able to open Browser --- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'SAILAKSHMI', ip: '192.168.1.116', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver 
+2018-02-27 16:22:53,158 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:22:53,158 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:22:53,159 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 16:22:53,159 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:22:53,159 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:22:53,161 INFO  [Log] Opening Browser 
+2018-02-27 16:22:54,016 INFO  [Log] Not able to open Browser --- Unable to create new service: GeckoDriverService
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:42:28.403Z'
+System info: host: 'IT-SUPPORT', ip: '192.168.2.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_77'
+Driver info: driver.version: unknown
+Command duration or timeout: 104 milliseconds 
+2018-02-27 16:42:36,062 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:42:36,076 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:42:36,076 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-27 16:42:36,076 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:42:36,076 INFO  [Log] **************************************************************************************** 
+2018-02-27 16:42:36,079 INFO  [Log] Opening Browser 
+2018-02-27 16:42:47,067 INFO  [Log] Navigating to URL 
+2018-02-27 16:42:56,487 INFO  [Log] Clicking on Webelement btn_Login 
+2018-02-27 16:42:56,880 INFO  [Log] Clicking on Webelement link_Login 
+2018-02-27 16:42:58,436 INFO  [Log] Entering the text in UserName 
+2018-02-27 16:42:58,597 INFO  [Log] Entering the text in Password 
+2018-02-27 16:42:58,741 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-02-27 16:43:02,700 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-02-27 16:43:03,044 INFO  [Log] Wait for 2 seconds 
+2018-02-27 16:43:05,108 INFO  [Log] Clicking on Webelement link_Logout 
+2018-02-27 16:43:06,519 INFO  [Log] Closing the browser 
+2018-02-27 16:43:06,764 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-27 16:43:06,764 INFO  [Log] X 
+2018-02-27 16:43:06,764 INFO  [Log] X 
+2018-02-27 16:43:06,764 INFO  [Log] X 
+2018-02-27 16:43:06,764 INFO  [Log] X 
+2018-02-27 16:43:06,789 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-27 16:43:06,789 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-27 16:43:06,789 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-02-27 16:43:06,789 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 11:56:57,862 INFO  [Log] **************************************************************************************** 
+2018-03-07 11:56:57,878 INFO  [Log] **************************************************************************************** 
+2018-03-07 11:56:57,878 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-07 11:56:57,878 INFO  [Log] **************************************************************************************** 
+2018-03-07 11:56:57,878 INFO  [Log] **************************************************************************************** 
+2018-03-07 11:56:57,881 INFO  [Log] Opening Browser 
+2018-03-07 11:56:58,010 INFO  [Log] Not able to open Browser --- The driver executable does not exist: C:\geckodriver.exe 
+2018-03-07 11:57:26,845 INFO  [Log] **************************************************************************************** 
+2018-03-07 11:57:26,845 INFO  [Log] **************************************************************************************** 
+2018-03-07 11:57:26,845 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-07 11:57:26,845 INFO  [Log] **************************************************************************************** 
+2018-03-07 11:57:26,845 INFO  [Log] **************************************************************************************** 
+2018-03-07 11:57:26,851 INFO  [Log] Opening Browser 
+2018-03-07 11:57:27,007 INFO  [Log] Not able to open Browser --- The driver executable does not exist: C:\geckodriver.exe 
+2018-03-07 12:09:08,645 INFO  [Log] **************************************************************************************** 
+2018-03-07 12:09:08,645 INFO  [Log] **************************************************************************************** 
+2018-03-07 12:09:08,645 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-07 12:09:08,645 INFO  [Log] **************************************************************************************** 
+2018-03-07 12:09:08,645 INFO  [Log] **************************************************************************************** 
+2018-03-07 12:09:08,648 INFO  [Log] Opening Browser 
+2018-03-07 12:09:15,489 INFO  [Log] Navigating to URL 
+2018-03-07 12:09:22,509 INFO  [Log] Clicking on Webelement btn_Login 
+2018-03-07 12:09:22,846 INFO  [Log] Clicking on Webelement link_Login 
+2018-03-07 12:09:24,162 INFO  [Log] Entering the text in UserName 
+2018-03-07 12:09:24,316 INFO  [Log] Entering the text in Password 
+2018-03-07 12:09:24,437 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-03-07 12:09:30,936 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-03-07 12:09:31,261 INFO  [Log] Wait for 2 seconds 
+2018-03-07 12:09:33,293 INFO  [Log] Clicking on Webelement link_Logout 
+2018-03-07 12:09:34,015 INFO  [Log] Closing the browser 
+2018-03-07 12:09:34,196 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-07 12:09:34,196 INFO  [Log] X 
+2018-03-07 12:09:34,196 INFO  [Log] X 
+2018-03-07 12:09:34,196 INFO  [Log] X 
+2018-03-07 12:09:34,196 INFO  [Log] X 
+2018-03-07 12:09:34,202 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 12:09:34,202 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 12:09:34,202 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 12:09:34,202 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 13:53:27,421 INFO  [Log] **************************************************************************************** 
+2018-03-07 13:53:27,422 INFO  [Log] **************************************************************************************** 
+2018-03-07 13:53:27,422 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-07 13:53:27,422 INFO  [Log] **************************************************************************************** 
+2018-03-07 13:53:27,422 INFO  [Log] **************************************************************************************** 
+2018-03-07 13:53:27,425 INFO  [Log] Opening Browser 
+2018-03-07 13:53:32,705 INFO  [Log] Navigating to URL 
+2018-03-07 13:53:41,973 INFO  [Log] Clicking on Webelement btn_Login 
+2018-03-07 13:53:42,306 INFO  [Log] Clicking on Webelement link_Login 
+2018-03-07 13:53:44,108 INFO  [Log] Entering the text in UserName 
+2018-03-07 13:53:44,259 INFO  [Log] Entering the text in Password 
+2018-03-07 13:53:44,392 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-03-07 13:53:50,862 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-03-07 13:53:51,179 INFO  [Log] Wait for 2 seconds 
+2018-03-07 13:53:53,250 INFO  [Log] Clicking on Webelement link_Logout 
+2018-03-07 13:53:54,054 INFO  [Log] Closing the browser 
+2018-03-07 13:53:54,306 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-07 13:53:54,306 INFO  [Log] X 
+2018-03-07 13:53:54,306 INFO  [Log] X 
+2018-03-07 13:53:54,306 INFO  [Log] X 
+2018-03-07 13:53:54,306 INFO  [Log] X 
+2018-03-07 13:53:54,320 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 13:53:54,320 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 13:53:54,320 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 13:53:54,320 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 14:26:51,497 INFO  [Log] **************************************************************************************** 
+2018-03-07 14:26:51,498 INFO  [Log] **************************************************************************************** 
+2018-03-07 14:26:51,498 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-07 14:26:51,498 INFO  [Log] **************************************************************************************** 
+2018-03-07 14:26:51,498 INFO  [Log] **************************************************************************************** 
+2018-03-07 14:26:51,505 INFO  [Log] Opening Browser 
+2018-03-07 14:26:57,058 INFO  [Log] Navigating to URL 
+2018-03-07 14:27:03,354 INFO  [Log] Clicking on Webelement btn_Login 
+2018-03-07 14:27:03,731 INFO  [Log] Clicking on Webelement link_Login 
+2018-03-07 14:27:05,125 INFO  [Log] Entering the text in UserName 
+2018-03-07 14:27:05,321 INFO  [Log] Entering the text in Password 
+2018-03-07 14:27:05,465 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-03-07 14:27:09,664 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-03-07 14:27:09,992 INFO  [Log] Wait for 2 seconds 
+2018-03-07 14:27:12,054 INFO  [Log] Clicking on Webelement link_Logout 
+2018-03-07 14:27:12,699 INFO  [Log] Closing the browser 
+2018-03-07 14:27:12,916 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-07 14:27:12,916 INFO  [Log] X 
+2018-03-07 14:27:12,916 INFO  [Log] X 
+2018-03-07 14:27:12,916 INFO  [Log] X 
+2018-03-07 14:27:12,916 INFO  [Log] X 
+2018-03-07 14:27:12,932 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 14:27:12,932 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 14:27:12,932 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-07 14:27:12,932 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-06-05 14:00:44,686 INFO  [Log] **************************************************************************************** 
+2018-06-05 14:00:44,698 INFO  [Log] **************************************************************************************** 
+2018-06-05 14:00:44,698 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-05 14:00:44,698 INFO  [Log] **************************************************************************************** 
+2018-06-05 14:00:44,699 INFO  [Log] **************************************************************************************** 
+2018-06-05 14:00:44,701 INFO  [Log] Opening Browser 
+2018-06-05 14:00:54,288 INFO  [Log] Navigating to URL 
+2018-06-05 14:01:08,152 INFO  [Log] Clicking on Webelement btn_Login 
+2018-06-05 14:01:08,485 INFO  [Log] Clicking on Webelement link_Login 
+2018-06-05 14:01:10,983 INFO  [Log] Entering the text in UserName 
+2018-06-05 14:01:11,214 INFO  [Log] Entering the text in Password 
+2018-06-05 14:01:11,372 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-06-05 14:01:19,332 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-06-05 14:01:19,672 INFO  [Log] Wait for 2 seconds 
+2018-06-05 14:01:21,734 INFO  [Log] Clicking on Webelement link_Logout 
+2018-06-05 14:01:22,194 INFO  [Log] Closing the browser 
+2018-06-05 14:01:22,404 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-05 14:01:22,404 INFO  [Log] X 
+2018-06-05 14:01:22,404 INFO  [Log] X 
+2018-06-05 14:01:22,404 INFO  [Log] X 
+2018-06-05 14:01:22,404 INFO  [Log] X 
+2018-06-05 14:01:22,411 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-06-05 14:01:22,411 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-06-05 14:01:22,411 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-06-05 14:01:22,411 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 

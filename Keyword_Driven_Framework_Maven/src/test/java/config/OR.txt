@@ -1,0 +1,11 @@
+#Home Page Objects
+btn_Login = Login
+btn_ProfileName = html/body/div[2]/div[1]/div/ul[1]/li[2]/a
+link_Login = html/body/div[2]/div[1]/div/ul[1]/li[2]/div/ul/li[1]/a
+link_Logout = html/body/div[2]/div[1]/div/ul[1]/li[2]/div/ul/li[4]/a[1]
+
+
+#Login Page Objects
+txtbx_UserName = .//*[@id='rakloginform']/div[1]/div/div/div[1]/input[1]
+txtbx_Password = //*[@id='rakloginform']/div[1]/div/div/div[1]/input[2]
+btn_SignIn = loginbtn
