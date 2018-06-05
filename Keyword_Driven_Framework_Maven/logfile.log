@@ -558,3 +558,31 @@ Command duration or timeout: 104 milliseconds
 2018-06-05 14:01:22,411 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
 2018-06-05 14:01:22,411 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
 2018-06-05 14:01:22,411 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-06-05 17:55:44,049 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2018-06-05 17:56:17,349 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2018-06-05 17:56:44,891 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2018-06-05 17:57:04,221 INFO  [Log] **************************************************************************************** 
+2018-06-05 17:57:04,221 INFO  [Log] **************************************************************************************** 
+2018-06-05 17:57:04,222 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-05 17:57:04,222 INFO  [Log] **************************************************************************************** 
+2018-06-05 17:57:04,222 INFO  [Log] **************************************************************************************** 
+2018-06-05 17:57:04,224 INFO  [Log] Opening Browser 
+2018-06-05 17:57:10,140 INFO  [Log] Navigating to URL 
+2018-06-05 17:57:20,341 INFO  [Log] Clicking on Webelement btn_Login 
+2018-06-05 17:57:20,683 INFO  [Log] Clicking on Webelement link_Login 
+2018-06-05 17:57:22,784 INFO  [Log] Entering the text in UserName 
+2018-06-05 17:57:23,008 INFO  [Log] Entering the text in Password 
+2018-06-05 17:57:23,223 INFO  [Log] Clicking on Webelement btn_SignIn 
+2018-06-05 17:57:32,840 INFO  [Log] Clicking on Webelement btn_ProfileName 
+2018-06-05 17:57:33,176 INFO  [Log] Wait for 2 seconds 
+2018-06-05 17:57:35,274 INFO  [Log] Clicking on Webelement link_Logout 
+2018-06-05 17:57:35,776 INFO  [Log] Closing the browser 
+2018-06-05 17:57:35,965 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-05 17:57:35,965 INFO  [Log] X 
+2018-06-05 17:57:35,965 INFO  [Log] X 
+2018-06-05 17:57:35,965 INFO  [Log] X 
+2018-06-05 17:57:35,965 INFO  [Log] X 
+2018-06-05 17:57:35,981 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-06-05 17:57:35,981 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-06-05 17:57:35,981 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-06-05 17:57:35,981 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 

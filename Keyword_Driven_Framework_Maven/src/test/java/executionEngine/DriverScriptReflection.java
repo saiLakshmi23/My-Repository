@@ -4,19 +4,14 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.lang.reflect.Method;
 import java.util.Properties;
-
 import org.apache.log4j.xml.DOMConfigurator;
-
 import config.ActionKeywords;
 import config.Constants;
 import utility.CustomizedFinalReport;
-import utility.CustomizedReport;
 import utility.ExcelUtils;
 import utility.Log;
-
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
@@ -52,7 +47,7 @@ public class DriverScriptReflection
 			.addSystemInfo("Project Name", "RAK");
 		//loading the external xml file (i.e., extent-config.xml) which was placed under the base directory
         //You could find the xml file below. Create xml file in your project and copy past the code mentioned below
-        reports.loadConfig(new File("D:\\MavenWorkspace\\Keyword_Driven_Framework_Maven\\extent-config.xml"));
+        reports.loadConfig(new File("C:\\GitRapo\\Keyword_Driven_Framework_Maven\\extent-config.xml"));
 	}
 
 	
@@ -117,9 +112,6 @@ public class DriverScriptReflection
 		    		
 		    		execute_Actions();
 		    		
-		    		
-		    		
-		    		
 		    		//This is the result code, this code will execute after each test step
 		    		//The execution flow will go into this only if the value of bRsult is 'false'
 		    		if(bResult==false)
@@ -181,5 +173,5 @@ public class DriverScriptReflection
 			
 		}
 	}
-	}
+  }
 }

@@ -9,11 +9,10 @@ public class Constants
 	//Declared as 'static' so that we do need to instantiate a class object
 	//'String' and 'int' are the data type for storing a type of value
 	public static final String URL = "http://stg.rak.ae";
-	public static final String Path_TestData = "D://MavenWorkspace//Keyword_Driven_Framework_Maven//src//test//java//dataEngine//DataEngine.xlsx";
+	public static final String Path_TestData = "C://GitRapo//Keyword_Driven_Framework_Maven//src//test//java//dataEngine//DataEngine.xlsx";
 	public static final String File_TestData = "DataEngine.xlsx";
-	public static final String Path_OR = "D://MavenWorkspace//Keyword_Driven_Framework_Maven//src//test//java//config//OR.txt";
+	public static final String Path_OR = "C://GitRapo//Keyword_Driven_Framework_Maven//src//test//java//config//OR.txt";
 	public static final String screenshotsFilePath = "D://Screenshots//"+DriverScriptReflection.sActionKeyword+".png";
-	
 	
 	//List of Data Sheet Column Numbers
 	public static final int Col_TestCaseID = 0;
